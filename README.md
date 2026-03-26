@@ -9,5 +9,6 @@ Soy Data Engineer Jr. Me focalizo en el proceso ETL/ELT desde su orígen hasta e
 ![PySpark](https://img.shields.io/badge/PySpark-black?style=for-the-badge&logo=apachespark&logoColor=withe)
 ![Fabric](https://img.shields.io/badge/Fabric-black?style=for-the-badge&logo=formbricks&logoColor=withe)
 ![PowerBI](https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=formbricks&logoColor=withe)
+![Excel](https://img.shields.io/badge/Excel-black?style=for-the-badge&logo=libreofficecalc)
 
 - 📫 How to reach me: Email: bmaxirodriguez@gmail.com | [Linkedin](https://www.linkedin.com/in/bmaxirodriguez/)
